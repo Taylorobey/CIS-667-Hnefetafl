@@ -1,7 +1,9 @@
 # CIS-667-Hnefetafl
 
 This project uses Matplotlib and Numpy:
+
 https://numpy.org/doc/stable/index.html
+
 https://matplotlib.org/
 
 Hnefetafl_Helpers.py must be loaded before either the interactive or test programs
